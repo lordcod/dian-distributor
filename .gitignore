@@ -1,0 +1,4 @@
+user/
+.venv/
+__pycache__/
+*.spec
